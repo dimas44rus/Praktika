@@ -1,3 +1,9 @@
-﻿  ConsoleApplication2.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
-C:\Users\student\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+﻿  BankAccount.cpp
+  LightBulb.cpp
+  Product.cpp
+  Thermometer.cpp
+  WebLink.cpp
+  asdf.cpp
+  main.cpp
+  Создание кода...
+  ConsoleApplication2.vcxproj -> C:\Users\student\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
