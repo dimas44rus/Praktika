@@ -1,0 +1,10 @@
+﻿  main_phonebook.cpp
+D:\Vstudio\ConsoleApplication44\ConsoleApplication44\PhoneBook.h(146,55): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main_phonebook.cpp")
+  
+  PhoneBook.cpp
+D:\Vstudio\ConsoleApplication44\ConsoleApplication44\PhoneBook.h(146,55): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "PhoneBook.cpp")
+  
+  Создание кода...
+  ConsoleApplication44.vcxproj -> D:\Vstudio\ConsoleApplication44\x64\Debug\ConsoleApplication44.exe
